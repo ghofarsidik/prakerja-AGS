@@ -1,1 +1,2 @@
 ini berasal dari remote add
+ini berasal dari clone add
