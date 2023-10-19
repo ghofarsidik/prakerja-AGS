@@ -1,3 +1,4 @@
 ini berasal dari remote add
 ini berasal dari clone add
 ini berasal dari conflict clone
+ini berasal dari conflict remote
