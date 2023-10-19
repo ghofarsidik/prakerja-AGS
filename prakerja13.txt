@@ -6,3 +6,4 @@ ini ada perubahan b
 ini branch develop
 perubahan di branch development remote
 ini branch feature-a
+ini perubahan dari feature-b
